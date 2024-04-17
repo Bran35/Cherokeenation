@@ -1,0 +1,38 @@
+body {
+    background-color: brown;
+}
+
+
+
+.Cherokee  {
+    display: block;
+    border: 20%;
+    border-radius: 20%;
+    background-color: orange;
+    align-items: center;
+    padding: 4%;
+    float:center;
+}
+h1 {
+    font-size: 50px;
+    background-color:green;
+    border: 20%;
+    border-radius: 20%;
+    padding: 5%;
+    text-align: center;
+    color: yellow;
+
+
+}
+#history {
+    background-color: #fff;
+    border: 20%;
+    border-radius: 20%;
+    padding: 5%;
+}
+img {
+    background-color: green;
+    border: 20%;
+    border-radius: 20%;
+    padding: 5%;
+}
